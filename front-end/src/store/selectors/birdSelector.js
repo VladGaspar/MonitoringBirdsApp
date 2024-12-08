@@ -1,0 +1,1 @@
+export const getBirds = (state) => state.birdSlice;

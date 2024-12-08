@@ -1,0 +1,30 @@
+.custom-carousel li {
+    z-index: 10 !important;
+}
+
+.custom-carousel .carousel-slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-carousel .control-dots {
+    border-radius: 25px;
+    bottom: 0;
+    z-index: 11;
+    width: 300px;
+    height: 25px;
+    background-color: rgb(209 213 219);
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.custom-carousel .axis-horizontal {
+    width: 950px;
+}
+
+.carousel .control-dots {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
